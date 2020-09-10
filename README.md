@@ -1,5 +1,7 @@
 # Leaderf-floaterm
 
+LeaderfF support for [vim-floaterm](https://github.com/voldikss/vim-floaterm)
+
 ## Install
 
 ```vim
